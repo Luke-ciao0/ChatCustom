@@ -8,7 +8,7 @@ Questo plugin aggiunge tre comandi semplici e potenti per inviare messaggi perso
 
 ### 📢 **/actionbar `<destinatario>` `<tipo>` `<titolo>` `<sottotitolo>`**  
 Mostra un messaggio nella *actionbar* del giocatore.  
-- 🎯 **destinatario** — nome del giocatore o selettore (`@a`, `@p`, ecc.)  
+- 🎯 **destinatario** — nome del giocatore o selettore (`broadcast`, `private`, `staff`)  
 - 🎨 **tipo** — stile o categoria del messaggio  
 - 📝 **titolo** — testo principale  
 - ✏️ **sottotitolo** — testo secondario  
@@ -18,7 +18,7 @@ Mostra un messaggio nella *actionbar* del giocatore.
 ### 🖥️ **/title `<destinatario>` `<tipo>` `<messaggio>`**  
 Invia un titolo al centro dello schermo del giocatore.  
 - 🎯 **destinatario** — giocatore o selettore  
-- 🎨 **tipo** — tipo di titolo (es. `title`, `subtitle`, `clear`, ecc.)  
+- 🎨 **tipo** — tipo di titolo (`broadcast`, `private`, `staff`)  
 - 📝 **messaggio** — contenuto del titolo  
 
 ---
@@ -26,5 +26,5 @@ Invia un titolo al centro dello schermo del giocatore.
 ### 💬 **/message `<destinatario>` `<tipo>` `<messaggio>`**  
 Invia un messaggio formattato nella chat del giocatore.  
 - 🎯 **destinatario** — giocatore o selettore  
-- 🎨 **tipo** — categoria o stile del messaggio  
-- 📝 **messaggio** — testo da inviare  
+- 🎨 **tipo** — categoria del messaggio (`broadcast`, `private`, `staff`)  
+- 📝 **messaggio** — testo da inviare
