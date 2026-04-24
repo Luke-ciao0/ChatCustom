@@ -28,3 +28,13 @@ Invia un messaggio formattato nella chat del giocatore.
 - 🎯 **destinatario** — giocatore o selettore  
 - 🎨 **tipo** — categoria del messaggio (`broadcast`, `private`, `staff`)  
 - 📝 **messaggio** — testo da inviare
+
+---
+
+## 📫 Contatti
+
+Se vuoi contattarmi per collaborazioni o domande:
+
+- Email: lukeskywalker3763@gmail.com
+- Telegram: @Lunaticooh
+- GitHub: Luke-ciao0
