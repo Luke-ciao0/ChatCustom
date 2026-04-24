@@ -1,6 +1,7 @@
 ## ✨ Descrizione migliorata del plugin
 
 Questo plugin aggiunge tre comandi semplici e potenti per inviare messaggi personalizzati ai giocatori e modificare elementi della chat e dell’interfaccia. Perfetto per server che vogliono comunicare in modo più elegante e dinamico.
+## IL PLUGIN NON E' MODIFICABILE!!
 
 ---
 
